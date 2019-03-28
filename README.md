@@ -23,3 +23,4 @@
 <code>systemctl disable firewalld</code><br>
 <code>vim /etc/selinux/config</code>修改SELINUX=disabled<br>
 <code>reboot</code><br>
+<img src='https://img2018.cnblogs.com/blog/1510548/201903/1510548-20190324202816126-299977609.png'></img>
