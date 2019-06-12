@@ -14,8 +14,7 @@
   修改(需要vi编辑器知识)<code>vi /etc/shadowsocks.json</code><br> 
  
 ## 安装bbr 
-<code>sudo -i</code><br>
-<code>wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/YankeeBBR/master/bbr.sh && bash bbr.sh install</code><br>
+https://www.moerats.com/archives/387/
 
 ## centos7防火墙关闭方法
 <code>iptables -F</code><br>
