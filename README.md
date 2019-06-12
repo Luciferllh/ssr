@@ -14,7 +14,7 @@
   修改(需要vi编辑器知识)<code>vi /etc/shadowsocks.json</code><br> 
  
 ## 安装bbr 
-https://www.moerats.com/archives/387/
+https://blog.lucifer.club/index.php/archives/107/
 
 ## centos7防火墙关闭方法
 <code>iptables -F</code><br>
